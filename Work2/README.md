@@ -53,7 +53,7 @@
 
 📸 Контрольные точки
 1. Режим Design: общий вид всех экранов
-https://./screenshots/design_mode.png
+(https://github.com/DanDiShar/PKS_5sem/tree/main/Work2/screenshots/design_mode.png)
 
 2. Режим Prototype: соединения между экранами
 https://./screenshots/prototype_mode.png
