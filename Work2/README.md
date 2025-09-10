@@ -52,8 +52,7 @@
 Для переходов использовалась анимация Slide In, имитирующая стандартное поведение нативных мобильных приложений.
 
 📸 Контрольные точки
-1. Режим Design: общий вид всех экранов
-(https://github.com/DanDiShar/PKS_5sem/tree/main/Work2/screenshots/design_mode.png)
+1. Режим Design: общий вид всех экранов ![Design](https://github.com/DanDiShar/PKS_5sem/tree/main/Work2/screenshots/design_mode.png)
 
 2. Режим Prototype: соединения между экранами
 https://./screenshots/prototype_mode.png
