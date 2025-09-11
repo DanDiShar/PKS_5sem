@@ -53,6 +53,7 @@
 
 📸 Контрольные точки
 ![Design](screenshots/design_mode.png)
+https://www.figma.com/design/G3pexZybqU2vibHxWOlH42/Prototype_App_Sharipov?node-id=0-1&t=1Q1JugVWoCrG3Ouj-1
 1. Режим Design: общий вид всех экранов 
 
 2. Режим Prototype: соединения между экранами
